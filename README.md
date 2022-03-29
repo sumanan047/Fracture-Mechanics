@@ -1,2 +1,3 @@
 # Fracture-Mechanics
-Codes I wrote for modeling fracture mechanics scenarios and phenomena
+
+The code uses scratch test data to predict the fracture toughness of rock.
